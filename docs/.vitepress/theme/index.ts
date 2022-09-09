@@ -21,7 +21,7 @@ const sakanaInit = async () => {
   const takina = SakanaWidget.getCharacter('takina')!
   takina.initialState = {
     ...takina.initialState,
-    i: 0.5,
+    i: 0.1,
     d: 0.9,
   }
   SakanaWidget.registerCharacter('takina-slow', takina)

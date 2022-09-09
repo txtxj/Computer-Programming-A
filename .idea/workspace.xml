@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36346e37-cc01-4f72-8eda-73e7c5815cc8" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/utils/sidebar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/utils/sidebar.ts" afterDir="false" />
-    </list>
+    <list default="true" id="36346e37-cc01-4f72-8eda-73e7c5815cc8" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +71,7 @@
       <updated>1662720584335</updated>
       <workItem from="1662720586465" duration="176000" />
       <workItem from="1662720782277" duration="656000" />
-      <workItem from="1662721457020" duration="34000" />
+      <workItem from="1662721457020" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="update c2">
       <created>1662721430918</created>
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662721430918</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update sidebar">
+      <created>1662721500526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662721500526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update c2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update c2" />
+    <MESSAGE value="update sidebar" />
+    <option name="LAST_COMMIT_MESSAGE" value="update sidebar" />
   </component>
 </project>
