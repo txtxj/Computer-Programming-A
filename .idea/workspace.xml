@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36346e37-cc01-4f72-8eda-73e7c5815cc8" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/labs/c2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/labs/c1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/labs/c1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/utils/sidebar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/utils/sidebar.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "pnpm"
+    "nodejs_package_manager_path": "pnpm",
+    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\CLion 2022.1.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
   }
 }]]></component>
   <component name="RunManager">
@@ -72,11 +73,24 @@
       <option name="presentableId" value="Default" />
       <updated>1662720584335</updated>
       <workItem from="1662720586465" duration="176000" />
-      <workItem from="1662720782277" duration="622000" />
+      <workItem from="1662720782277" duration="656000" />
+      <workItem from="1662721457020" duration="34000" />
     </task>
+    <task id="LOCAL-00001" summary="update c2">
+      <created>1662721430918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662721430918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update c2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update c2" />
   </component>
 </project>
