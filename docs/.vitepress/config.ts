@@ -9,8 +9,8 @@ import { sidebar } from './utils/sidebar'
  */
 
 const config = defineConfig({
-  title: 'ICS Fall 2022',
-  description: 'USTC ICS CS1002A.03 Fall 2022 Homepage',
+  title: 'Computer Programming Fall 2022',
+  description: 'USTC Computer Programming CS1001A.H1 Fall 2022 Homepage',
   lang: 'zh-CN',
   lastUpdated: true,
   themeConfig: {
@@ -18,11 +18,11 @@ const config = defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/liuly0322/ics',
+        link: 'https://github.com/txtxj/Computer-Programming-A',
       },
     ],
     editLink: {
-      pattern: 'https://github.com/liuly0322/ics/edit/main/docs/:path',
+      pattern: 'https://github.com/txtxj/Computer-Programming-A/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页 ',
     },
     nav,
