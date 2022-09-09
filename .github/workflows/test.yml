@@ -23,7 +23,7 @@ jobs:
         run: pnpm i && pnpm lint
 
       - name: build
-        run: pnpm build && touch docs/.vitepress/dist/.nojekyll && echo 'txtxj.top/Computer-Programming-A' > docs/.vitepress/dist/CNAME
+        run: pnpm build && touch docs/.vitepress/dist/.nojekyll && echo 'cs.txtxj.top' > docs/.vitepress/dist/CNAME
 
       - name: Push
         uses: s0/git-publish-subdir-action@develop
