@@ -9,7 +9,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36346e37-cc01-4f72-8eda-73e7c5815cc8" name="变更" comment="" />
+    <list default="true" id="36346e37-cc01-4f72-8eda-73e7c5815cc8" name="变更" comment="update style">
+      <change afterPath="$PROJECT_DIR$/docs/resource.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/utils/nav.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/utils/nav.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +78,9 @@
       <workItem from="1662720782277" duration="656000" />
       <workItem from="1662721457020" duration="56000" />
       <workItem from="1662722042069" duration="538000" />
+      <workItem from="1662729814768" duration="22000" />
+      <workItem from="1663055921460" duration="5000" />
+      <workItem from="1663123180095" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="update c2">
       <created>1662721430918</created>

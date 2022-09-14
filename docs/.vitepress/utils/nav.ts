@@ -9,4 +9,9 @@ export const nav = [
     activeMatch: '/labs',
     link: '/labs/c1',
   },
+  {
+    text: '资料',
+    activeMatch: '/resource',
+    link: '/resource',
+  },
 ]
