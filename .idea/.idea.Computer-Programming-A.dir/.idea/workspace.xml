@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebc1bc5a-a5d5-4758-bff2-4db5fac81a21" name="Changes" comment="" />
+    <list default="true" id="ebc1bc5a-a5d5-4758-bff2-4db5fac81a21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/resource/data.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/theme/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/theme/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/utils/sidebar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/utils/sidebar.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
