@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebc1bc5a-a5d5-4758-bff2-4db5fac81a21" name="Changes" comment="add lab a1">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Computer-Programming-A.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Computer-Programming-A.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/labs/a1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/labs/a1.md" afterDir="false" />
-    </list>
+    <list default="true" id="ebc1bc5a-a5d5-4758-bff2-4db5fac81a21" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +45,7 @@
       <updated>1662718285846</updated>
       <workItem from="1662718292636" duration="1681000" />
       <workItem from="1663575730525" duration="1483000" />
-      <workItem from="1663577345249" duration="395000" />
+      <workItem from="1663577345249" duration="631000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1662718340114</created>
@@ -71,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663577393215</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update A1">
+      <created>1663577848420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663577848420</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +98,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="update" />
     <MESSAGE value="add lab a1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lab a1" />
+    <MESSAGE value="update A1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update A1" />
   </component>
 </project>
