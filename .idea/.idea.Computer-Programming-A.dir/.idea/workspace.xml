@@ -46,6 +46,7 @@
       <workItem from="1662718292636" duration="1681000" />
       <workItem from="1663575730525" duration="1483000" />
       <workItem from="1663577345249" duration="631000" />
+      <workItem from="1663578225629" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1662718340114</created>
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663577848420</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update ddl">
+      <created>1663578330604</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663578330604</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +107,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="add lab a1" />
     <MESSAGE value="update A1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update A1" />
+    <MESSAGE value="update ddl" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ddl" />
   </component>
 </project>
