@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a}from"./app.adcec001.js";const m=JSON.parse('{"title":"\u8BFE\u7A0B\u8D44\u6E90","description":"","frontmatter":{},"headers":[],"relativePath":"resource.md","lastUpdated":1663997044000}'),s={name:"resource.md"},o=a("",4),c=[o];function n(_,p,d,h,f,i){return r(),t("div",null,c)}const u=e(s,[["render",n]]);export{m as __pageData,u as default};
