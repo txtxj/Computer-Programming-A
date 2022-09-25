@@ -7,7 +7,7 @@ export const nav = [
   {
     text: '实验',
     activeMatch: '/labs',
-    link: '/labs/c1',
+    link: '/labs/a2',
   },
   {
     text: '资源',
