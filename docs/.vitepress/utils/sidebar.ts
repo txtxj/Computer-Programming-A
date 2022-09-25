@@ -4,7 +4,7 @@ export const sidebar = {
       text: '实验',
       link: '/labs/index',
       items: [
-        { text: '作业 A 分组', link: '/labs/group' },
+        { text: '实验检查分组', link: '/labs/group' },
         { text: 'A1：基本数据类型', link: '/labs/a1' },
         { text: 'A2：编程练习', link: '/labs/a2' },
         { text: 'C1：大素数生成', link: '/labs/c1' },
