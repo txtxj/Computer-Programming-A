@@ -11,6 +11,9 @@
       <change beforePath="$PROJECT_DIR$/docs/.vitepress/utils/sidebar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/utils/sidebar.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+    <list default="true" id="ebc1bc5a-a5d5-4758-bff2-4db5fac81a21" name="Changes" comment="update sidebar">
+      <change afterPath="$PROJECT_DIR$/docs/labs/a2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Computer-Programming-A.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Computer-Programming-A.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,8 @@
       <workItem from="1663579138650" duration="212000" />
       <workItem from="1663587541717" duration="98000" />
       <workItem from="1663671918777" duration="219000" />
+      <workItem from="1663996774178" duration="278000" />
+      <workItem from="1664106366156" duration="2859000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1662718340114</created>
@@ -122,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663672130103</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update erratum">
+      <created>1663997044625</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663997044625</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update sidebar">
+      <created>1664108492303</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664108492303</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +170,8 @@
     <MESSAGE value="update print" />
     <MESSAGE value="update index" />
     <MESSAGE value="add group" />
-    <option name="LAST_COMMIT_MESSAGE" value="add group" />
+    <MESSAGE value="update erratum" />
+    <MESSAGE value="update sidebar" />
+    <option name="LAST_COMMIT_MESSAGE" value="update sidebar" />
   </component>
 </project>
