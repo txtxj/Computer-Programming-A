@@ -4,9 +4,13 @@
 
 ## 课程通知
 
-实验 A2 已发布，
+实验 A2 已发布，截止时间为10月25日。
 
-9月27日晚实验课检查。
+实验 B 已发布。
+
+C1 提交：[program_ustc2022@163.com](mailto:program_ustc2022@163.com) ，截至时间为11月1日。
+
+C2 组队统计表：<https://docs.qq.com/sheet/DWml6UGlUUXdDR2FS>
 
 ## 课程信息
 
