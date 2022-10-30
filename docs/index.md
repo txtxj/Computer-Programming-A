@@ -19,8 +19,6 @@ C2 组队统计表：<https://docs.qq.com/sheet/DWml6UGlUUXdDR2FS>
  - 理论课：周五 14:00 - 15:35, 5306
  - 实验课：周二 19:30 - 21:30, 电三楼 516, 519
 
-讨论版： <https://github.com/USTC-CS1001A-H1-2022/DiscussionBoard>
-
 ## 课程要求
 
  - 平日成绩（50%）
