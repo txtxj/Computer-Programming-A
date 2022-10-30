@@ -4,10 +4,6 @@
 
 ## 课程通知
 
-<span style="color: #b94047">10月25日实验课改为线上。</span>
-
-实验 A2 已发布，截止时间为10月25日。
-
 实验 B 已发布。
 
 C1 提交：[program_ustc2022@163.com](mailto:program_ustc2022@163.com) ，截至时间为11月1日。
