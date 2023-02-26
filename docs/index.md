@@ -4,13 +4,7 @@
 
 ## 课程通知
 
-实验 B 已发布。
-
-考试时间已经确定在12月28日（周三）16:30 - 18:30, 教室暂未确定。
-
-C1 提交：[program_ustc2022@163.com](mailto:program_ustc2022@163.com) ，已截止。
-
-C2 组队统计表：<https://docs.qq.com/sheet/DWml6UGlUUXdDR2FS>
+已结课。
 
 ## 课程信息
 
